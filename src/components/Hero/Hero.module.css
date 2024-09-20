@@ -1,0 +1,48 @@
+.container{
+    width: 100%;
+    }
+    
+    .innerContainer{
+        width: 100%;
+        background-image: url(../../Assets/heroImage.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 3rem;
+        padding-bottom: 5rem;
+    }
+
+    .heroImage{
+        margin-bottom: 4rem;
+        margin-top: 3rem;
+    }
+    
+    .hero{
+        float: right;
+        margin-right: 2rem;
+        width: 47%;
+    }
+    
+    .hero h2{
+        font-family: Lato;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 38.09px;
+        color: white;
+    }
+    
+    .hero p{
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 500;
+    color:  white;
+    width: 90%;
+    }
+    
+    .heroElement{
+        width: 100%;
+    }
+    .heroElement img{
+        width: 100%
+    }
+    
+    

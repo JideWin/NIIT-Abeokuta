@@ -1,0 +1,51 @@
+.container{
+    width: 100%;
+    background-color: rgba(14, 57, 151, 1);
+    padding: 5rem 0;
+}
+
+.innerContainer{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.clientWrap{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+h2{
+    color: #fff;
+    font-family: Lato;
+    font-size: 33px;
+    font-weight: 600;
+    /* line-height: 38.05px; */
+    margin-bottom: 4rem;
+}
+
+.testimonySlide p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color: #fff;
+    width: 78.5%;
+    margin: auto;
+}
+
+.clientText{
+    margin-top: -1rem;
+}
+
+.clientText h5{
+    font-family: Lato;
+    color: rgba(52, 173, 254, 1);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    margin: 0;
+}

@@ -1,0 +1,102 @@
+.innerContainer {
+  width: 90%;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+  margin: auto;
+}
+
+.innerContainer h2 {
+  font-family: Lato;
+  text-align: center;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 46.2px;
+  color: rgba(14, 57, 151, 1);
+  margin-bottom: 4rem;
+  margin-top: 5rem;
+}
+
+.studentWrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.studentText {
+  width: 70%;
+  margin: auto;
+}
+
+.part {
+  display: flex;
+  align-items: center;
+  gap: 3.5rem;
+  margin: auto;
+}
+
+.part1 hr {
+  width: 52.71px;
+  height: 0px;
+  top: 3154.58px;
+  left: 116.05px;
+  margin-left: 1rem;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(-90deg);
+  margin-left: -0.6rem;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+  border: 1px solid rgba(14, 57, 151, 1);
+}
+
+.noLine hr {
+  border: none;
+}
+
+.part1 h1 {
+  font-family: Lato;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 60px;
+  color: rgba(14, 57, 151, 0.5);
+  -webkit-text-stroke: 2px rgba(14, 57, 151, 1);
+  /* margin-top: 1rem; */
+}
+
+.part2{
+  margin-top: -4rem;
+}
+
+.part2 h4 {
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 34.7px;
+  color: rgba(14, 57, 151, 1);
+  /* margin-top: -3rem; */
+  
+}
+
+.part2 p {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28.72px;
+  color: rgba(51, 51, 51, 1);
+  width: 70%;
+  /* margin-top: -1rem; */
+}
+
+.studentBtn button {
+  background-color: rgba(14, 57, 151, 1);
+  padding: 1rem 4rem;
+  cursor: pointer;
+  border: 2px solid rgba(14, 57, 151, 1);
+  border-radius: 5px;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 6rem;
+  letter-spacing: 1px;
+  margin-bottom: 3.5rem;
+}

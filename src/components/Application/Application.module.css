@@ -1,0 +1,70 @@
+.container{
+    width: 100%;
+}
+
+.hero{
+    background-image: url(../../Assets/RegisterHero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 17rem;
+    padding-bottom: 3rem;
+}
+
+.hero h3 {
+    font-family: Lato;
+    color: #0E3997;
+    font-size: 33px;
+    font-weight: 700;
+    margin-left: 4rem;
+    text-shadow: 0px 4px 4px black;
+}
+
+.register{
+    width: 40%;
+    margin: auto;
+    background: #0E399708;
+    border: 1px solid #0E399712;
+    padding: 3rem 3rem 7rem 3rem;
+    margin-top: 8rem;
+    margin-bottom: 12rem;
+    border-radius: 10px;
+}
+
+.register h3{
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 39.6px;
+    color: #333333;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.register input {
+    width: 100%;
+    border: 1px solid #00000080;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.submit button{
+    width: 100%;
+    border: 1px solid #0E3997;
+    border-radius: 5px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.2px;
+    letter-spacing: 0.15em;
+
+}
+
+.register label{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.2px;
+    color:#333333;
+}

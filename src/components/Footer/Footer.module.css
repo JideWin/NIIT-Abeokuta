@@ -1,0 +1,124 @@
+.container {
+  background-image: url(../../Assets/mapp.png);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  margin: auto;
+}
+
+footer {
+  width: 95%;
+  margin: auto;
+  color: white;
+}
+
+.footWrap{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+
+.footRight{
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+}
+
+.footLeft{
+  width: 30%;
+}
+.footLeft p{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  padding-top: 1rem;
+  width: 70%;
+}
+.subscribe{
+  width: 20%;
+}
+.socials{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.info h5{
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-bottom: 1rem;
+}
+.info p{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  padding-bottom: 1rem;
+}
+.subscribe h5{
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-bottom: 1rem;
+}
+
+form{
+  align-items: center;
+}
+
+form input{
+  width: 70%;
+  padding: 0.5rem;
+  border: none;
+  background: white;
+  font-family: Lato;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: 500;
+  line-height: 24px;
+  color: #F4F5F7;
+  border-radius: 5px, 0px, 0px 5px;
+}
+
+form button{
+  width: 20%;
+  background:#0E3997 ;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  font-family: Lato;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: 500;
+  line-height: 24px;
+  cursor: pointer;
+  border-radius: 0px, 5px, 5px 0px;
+}
+
+.footLogo img{
+  filter: contrast(0%) brightness(2);
+
+}
+
+.copyRight{
+  text-align: center;
+  margin-top: 4rem;
+}
+.copyRight p{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.2px;
+}
+
+.copyRight hr{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 1rem;
+}
